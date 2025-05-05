@@ -1,0 +1,48 @@
+altgraph @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/altgraph-0.17.2-py2.py3-none-any.whl
+apache-beam==2.60.0
+async-timeout==4.0.3
+attrs==24.2.0
+beautifulsoup4==4.13.3
+certifi==2024.8.30
+charset-normalizer==3.4.0
+cloudpickle==2.2.1
+crcmod==1.7
+dill==0.3.1.1
+dnspython==2.7.0
+docopt==0.6.2
+fastavro==1.9.7
+fasteners==0.19
+future @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/future-0.18.2-py3-none-any.whl
+grpcio==1.65.5
+hdfs==2.7.3
+httplib2==0.22.0
+idna==3.10
+jsonpickle==3.3.0
+jsonschema==4.23.0
+jsonschema-specifications==2024.10.1
+macholib @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/macholib-1.15.2-py2.py3-none-any.whl
+numpy==1.26.4
+objsize==0.7.0
+orjson==3.10.10
+packaging==24.1
+proto-plus==1.25.0
+protobuf==4.25.5
+psycopg2-binary==2.9.9
+pyarrow==16.1.0
+pyarrow-hotfix==0.6
+pydot==1.4.2
+pymongo==4.10.1
+pyparsing==3.2.0
+python-dateutil==2.9.0.post0
+pytz==2024.2
+redis==5.2.0
+referencing==0.35.1
+regex==2024.9.11
+requests==2.32.3
+rpds-py==0.20.0
+six @ file:///AppleInternal/Library/BuildRoots/860631e9-c1c5-11ee-98ee-b6ef2fd8d87b/Library/Caches/com.apple.xbs/Sources/python3/six-1.15.0-py2.py3-none-any.whl
+soupsieve==2.6
+SQLAlchemy==2.0.38
+typing_extensions==4.12.2
+urllib3==2.2.3
+zstandard==0.23.0
